@@ -1,6 +1,4 @@
-08-ansible-03-role
 
-Задание: https://github.com/VitalyMozhaev/mnt-homeworks/tree/main/08-ansible-03-role
 
 # Playbook с ролями для установки Java, Elasticsearch и Kibana
 
