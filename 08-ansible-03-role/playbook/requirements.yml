@@ -1,13 +1,13 @@
 ---
-  - src: git@github.com:boakaa24/boakaa24/ansible.git/08-ansible-03-role/java_role
+  - src: git@github.com:boakaa24/boakaa24/java_role.git
     scm: git
     version: "1.0.1"
     name: java
-  - src: git@github.com:boakaa24/ansible.git/08-ansible-03-role/elastic_role
+  - src: git@github.com:boakaa24/elastic_role.git
     scm: git
     version: "1.0.1"
     name: elastic
-  - src: git@github.com:boakaa24/ansible.git/08-ansible-03-role/kibana_role
+  - src: git@github.com:boakaa24/kibana_role.git
     scm: git
     version: "1.0.1"
     name: kibana
